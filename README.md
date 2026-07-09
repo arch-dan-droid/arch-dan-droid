@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hey there! I'm Daniel de Oliveira!
+# Hey there! I'm Daniel de Oliveira!
 
 ### ⚛️ Computer Science Student | Data Engineering | Brazil 🇧🇷
 
