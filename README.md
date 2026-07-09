@@ -2,8 +2,6 @@
 
 ### ⚛️ Computer Science Student | Data Engineering | Brazil 🇧🇷
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arch-dan-droid&label=Profile views&color=0e75b6&style=flat" alt="arch-dan-droid" /> </p>
-
 - 🔭 I'm currently working on: **a Pixel-Art game project.**
 
 - 🌱 I'm currently learning: **TypeScript and React**
