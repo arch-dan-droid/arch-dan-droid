@@ -1,14 +1,14 @@
-# Hey there! I'm Daniel de Oliveira!
+# Hey there! I'm Daniel!
 
 ### ⚛️ Computer Science Student | Data Engineering | Brazil 🇧🇷
 
-- 🔭 I'm currently working on: **a Pixel-Art game project.**
+-  I'm currently working on: **a Pixel-Art game project.**
 
-- 🌱 I'm currently learning: **TypeScript and React**
+-  I'm currently learning: **TypeScript and React**
 
-- 💬 Ask me about: **SQL, Python, Java and UX/UI Design.**
+-  Ask me about: **SQL, Python, Java and UX/UI Design.**
 
-- ⚡ Fun fact: **I am literally Chuu from LOOΠΔ!**
+-  Fun fact: **I am literally Chuu from LOOΠΔ!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
